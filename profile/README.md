@@ -1,12 +1,27 @@
 ## Hi there 👋
+## We are Cash Coders
 
-<!--
+**Elevating Ideas, Crafting Solutions**
 
-**Here are some ideas to get you started:**
+🙋‍♀️ "We are a passionate and innovative software development group dedicated to crafting solutions that make a difference. With a team of skilled developers, we thrive on turning concepts into reality, building the digital future one line of code at a time. We take pride in our ability to transform ideas into powerful software, helping businesses and individuals achieve their goals. Welcome to a world of innovation, welcome to Cash_Coders."
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# **Our Configuration🧩**
+ 
+```javascript
+const config = {
+    name: "Cash Coders",
+    group_number: 25,
+    members: [
+        "Vinuka👺",
+        "Praveen🤫",
+        "Hasintha🧐",
+        "Sanjula😵",
+        "Charith🤪",
+        "Hasitha😁",
+        "Pravindu🤓",
+        "Kawindu😬",
+        "Chamara🤬",
+        "Manindu👻"
+    ],
+}
+```
