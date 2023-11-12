@@ -12,6 +12,7 @@ const config = {
     name: "Cash Coders",
     group_number: 25,
     members: [
+        "Chathurya👧"
         "Vinuka👺",
         "Praveen🤫",
         "Hasintha🧐",
